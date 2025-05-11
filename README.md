@@ -77,4 +77,4 @@ Para o curso: **Bootcamp T1 - Dev. Full Stack Jr. (+praTi & Codifica)**
 
 ## 📎 Licença
 
-Este projeto é de uso educacional e não possui fins comerci
+Este projeto é de uso educacional e não possui fins comercial.
